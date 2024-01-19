@@ -21,7 +21,7 @@ Getting Started:
 Prerequisites:-
 1.Web Browser: Ensure you have a snazzy web browser installed – think Chrome, Firefox, or Safari.
 2.Text Editor: Grab your favorite text editor for code tinkering. Visual Studio Code, Atom, or Sublime Text are top-notch choices.
-3.Git: Make sure you've got Git on your machine. If not, snag it here.
+3.Git: Make sure you've got Git on your machine.
 
 Local Setup:
 Clone the Repository:-
