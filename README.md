@@ -28,7 +28,7 @@ Clone the Repository:-
 1.Fire up your terminal or command prompt and run: git clone https://github.com/ShrutiSangwan07/github_repositary_viewer.git
 2.Navigate to the Project Directory: cd github_repositary_viewer
 3.Open the HTML File: Find index.html in the project directory, then give it a double click or open it with your browser.
-4Explore Locally: Ta-da! The GitHub Repositories Viewer is now running locally. Click around, change settings, and dive into the repositories.
+4.Explore Locally: Ta-da! The GitHub Repositories Viewer is now running locally. Click around, change settings, and dive into the repositories.
 
 Making Changes (Optional):
 Ready to jazz things up? Feel free to tweak the code:-
